@@ -1,4 +1,4 @@
-"# vfp-example" 
+# Ejemplo de timbrado con Visual Fox Pro
 
 [logo]: http://formasdigitales.mx/images/github/clientefox.png "Cliente Formas digitales"
 
