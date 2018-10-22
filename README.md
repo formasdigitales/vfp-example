@@ -1,6 +1,10 @@
 # Ejemplo de timbrado con Visual Fox Pro
 
-[logo]: http://formasdigitales.mx/images/github/clientefox.png "Cliente Formas digitales"
+![cliente de formas digitales](http://formasdigitales.mx/images/github/clientefox.png)
+Los pasos para timbrar nuestro cfdi son los siguientes.
+* Seleccionamos nuestro archivo de cfdi que esta en excel.
+* Seleccionamos nuestro certificado.
+* Seleccionamos nuestro archivo key para crear el sello digital.
 
 
 ```C#
